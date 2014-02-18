@@ -1,7 +1,7 @@
 BrunoCoin
 =========
 
-an experimental virtual CurrencySystem for @brunojennrich
+an experimental virtual CurrencySystem for [@brunojennrich]
 
 MoneySupply: 10000 BrunoCoin
 
